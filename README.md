@@ -16,7 +16,7 @@
 | Стадия | Номер | %duplicated | Отчет |
 | :---: | :---: | :---: | :---: |
 | 8Cell | SRR5836473 | 18.31 | [8cell.html](https://github.com/tomat8jpg/hse_hw1_meth/blob/main/data/SRR5836473_1_bismark_bt2_PE_report.html) |
-| ICM | SRR5836475 | 9.08 | [icm.html](file:///C:/Users/taran/Downloads/SRR5836475_1_bismark_bt2_PE_report.html) |
+| ICM | SRR5836475 | 9.08 | [icm.html](https://github.com/tomat8jpg/hse_hw1_meth/blob/main/data/SRR5836475_1_bismark_bt2_PE_report.html) |
 | Epiblast | SRR3824222 | 2.92 | [epibl.html](https://github.com/tomat8jpg/hse_hw1_meth/blob/main/data/SRR3824222_1_bismark_bt2_PE_report.html) |
 # M-bias plots 
 Уровень метилирование эпибласта самый высокий. Самый маленький процент метилирования для образца ICM. Это согласуется с литературными данными  
