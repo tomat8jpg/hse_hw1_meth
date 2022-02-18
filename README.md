@@ -33,6 +33,7 @@
 ![image](https://user-images.githubusercontent.com/60805733/154718196-2fe3880a-5831-4deb-b1b1-5ed544722885.png)  
 # Графики уровня метилирования и покрытия для каждого образца
 # metilation
+![image](https://user-images.githubusercontent.com/60805733/154736410-897e2c4d-edf1-4fa5-88ad-9ccea584a40a.png)
 
 # coverage
 
