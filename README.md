@@ -16,3 +16,18 @@
 | 8Cell | SRR5836473 | 18.31 | [8cell.html](file:///C:/Users/taran/Downloads/SRR5836473_1_bismark_bt2_PE_report.html) |
 | ICM | SRR5836475 | 9.08 | [icm.html](file:///C:/Users/taran/Downloads/SRR5836475_1_bismark_bt2_PE_report.html) |
 | Epiblast | SRR3824222 | 2.92 | [epibl.html](file:///C:/Users/taran/Downloads/SRR3824222_1_bismark_bt2_PE_report%20(1).html) |
+# M-bias plots 
+Уровень метилирование эпибласта самый высокий. Самый маленький процент метилирования для образца ICM. Это согласуется с литературными данными  
+> 8cell
+
+>ICM
+
+>Epiblast
+
+# Распределение метилирования
+
+# Графики уровня метилирования и покрытия для каждого образца
+>metilation
+
+>coverage
+
